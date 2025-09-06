@@ -33,7 +33,7 @@ A modern React TypeScript application featuring a comments dashboard and user pr
 
 2. **Install dependencies with peer dependencies**
    ```bash
-   npm install --legacy-peer-deps
+   npm install
    ```
 
 3. **Set up environment variables**
